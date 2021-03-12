@@ -1,6 +1,6 @@
 # imali
 
-cool team
+cool team let's goo
 ## Getting Started
 
 This project is a starting point for a Flutter application.
