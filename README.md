@@ -1,7 +1,6 @@
 # imali
 
-A new Flutter application.
-
+An new way to make payments in Anfrica
 ## Getting Started
 
 This project is a starting point for a Flutter application.
