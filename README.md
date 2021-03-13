@@ -1,7 +1,6 @@
 # imali
 
-cool team let's goo
-## Getting Started
+Good Job Steward
 
 This project is a starting point for a Flutter application.
 
