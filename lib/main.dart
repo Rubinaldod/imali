@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
                     enabledBorder: OutlineInputBorder(
                       borderSide: BorderSide(color: Colors.white, width: 1.0),
                     ),
-                    hintText: 'Enter your @sign here',
+                    hintText: 'Enter your @sign ',
                     hintStyle: TextStyle(
                       height: 1.0,
                       color: Colors.white,
