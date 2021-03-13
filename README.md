@@ -1,8 +1,6 @@
 # imali
 
-A new Flutter application.
-Weekends are too short!!!!!
-## Getting Started
+Good Job Steward
 
 This project is a starting point for a Flutter application.
 
