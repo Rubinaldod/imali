@@ -35,10 +35,7 @@ class _ImaliState extends State<Imali> {
           body:
               "Here you can write the description of the page, to explain someting...",
           image: Center(
-            child: Image.asset(
-              "assets/africa.png",
-              height: 200,
-            ),
+            child: Image.asset("assets/africa.png", width: 275.0),
           ),
         ),
         PageViewModel(
@@ -46,9 +43,7 @@ class _ImaliState extends State<Imali> {
           body:
               "Here you can write the description of the page, to explain someting...",
           image: Center(
-            child: Image.asset(
-              "assets/africa.png",
-            ),
+            child: Image.asset("assets/africa.png", width: 275.0),
           ),
         ),
         PageViewModel(
@@ -56,9 +51,7 @@ class _ImaliState extends State<Imali> {
           body:
               "Here you can write the description of the page, to explain someting...",
           image: Center(
-            child: Image.asset(
-              "assets/africa.png",
-            ),
+            child: Image.asset("assets/africa.png", width: 275.0),
           ),
         )
       ],
